@@ -1,0 +1,12 @@
+name: shinytestdatabrew
+title: shinytestdatabrew
+username:
+account: nolik2000
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4142161
+bundleId: 4610609
+url: https://nolik2000.shinyapps.io/shinytestdatabrew/
+when: 1621327114.02612
+asMultiple: FALSE
+asStatic: FALSE
